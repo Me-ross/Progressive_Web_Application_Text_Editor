@@ -26,7 +26,7 @@ Build a single page text editor that runs in the browser and meets PWA criteria.
 
 
 ## Heroku
-Text Application is deployed on Heroky at [here](https://git.heroku.com/shrouded-tundra-05839.git)
+Text Application is deployed on Heroky at [here](https://shrouded-tundra-05839.herokuapp.com/)
 
 ## GitHub 
 ReRepository for Text Editor application can be found at: [GitHub](https://github.com/Me-ross/Progressive_Web_Application_Text_Editor)
